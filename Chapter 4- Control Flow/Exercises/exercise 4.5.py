@@ -18,5 +18,5 @@ if 'strawberries' in favorite_fruits:
     # If 'strawberries' are in your list, print a statement.
     print("You really like kiwis!")
 #In this program, it checks whether each of the specified fruits is in your list of favorite fruits and prints a statement for each fruit that is found in the list
-    print("You really like strawberries!")
+    
 
