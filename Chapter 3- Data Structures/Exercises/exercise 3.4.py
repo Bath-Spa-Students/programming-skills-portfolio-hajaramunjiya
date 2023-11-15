@@ -4,7 +4,7 @@ invitees = ['Leonardo da Vinci', 'Marie Curie', 'Nelson Mandela']
 
 # Print invitation messages
 for person in invitees:
-    invitation_message = f"Dear {person},\nYou are cordially invited to dinner at my place. It would be an honor to have you join us."
+    invitation_message = f"Dear {person},\nYou are cordially invited to dinner at my place."
     print(invitation_message)
     print()  # Add an empty line for separation between invitations
 #The for loop iterates through each person in the list.
