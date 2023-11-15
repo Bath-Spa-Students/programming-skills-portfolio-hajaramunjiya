@@ -1,6 +1,6 @@
 # Define the quote and its author
-quote = "A person who never made a mistake never tried anything new."
-author = "Albert Einstein"
+quote = "Be the change that you wish to see in the world."
+author = "Mahatma Gandhi"
 
 # Print the quote and its author
 print(f'{author} once said, "{quote}"')
