@@ -1,11 +1,10 @@
-#Assume the lists numbers1 has 100 elements and numbers2 is an empty list. Write code that copies the values in numbers to numbers2.
+#Assume the lists numbers1 has 100 elements and numbers2 is an empty list. 
+#Write code that copies the values in numbers to numbers2.
 
-# Assume 'numbers1' has 100 elements and 'numbers2' is an empty list
-numbers1 = [1, 2, 3, 4, 5, ...]  # Example: Replace with your 100 elements
-numbers2 = []  # Initialize an empty list 'numbers2'
+numbers1 = [i for i in range(100)]  # Generating a list with 100 elements
+numbers2 = []  # Initializing an empty list
 
-# Copy the values from 'numbers1' to 'numbers2'
-for number in numbers1:
-    numbers2.append(number)
+# Copying values from numbers1 to numbers2
+numbers2 = numbers1
 
-# Now 'numbers2' contains the same values as 'numbers1'
+print (numbers2)
