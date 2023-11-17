@@ -1,5 +1,5 @@
 # Initial list of guests
-guests = ['Alice', 'Bob', 'Charlie', 'David']
+guests = ['Aazra', 'ilsa', 'aisha', 'naima']
 
 # Print a message about the limit of guests
 print("Due to a delay, the new dinner table won't arrive in time. You can only invite two people for dinner.")
